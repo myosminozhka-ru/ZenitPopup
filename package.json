@@ -1,0 +1,22 @@
+{
+  "name": "zenitpopup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myosminozhka-ru/ZenitPopup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myosminozhka-ru/ZenitPopup/issues"
+  },
+  "homepage": "https://github.com/myosminozhka-ru/ZenitPopup#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
